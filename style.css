@@ -1,0 +1,63 @@
+body{
+         background :url(file:///C:/Users/91827/Pictures/plate-of-prepared-food-1439328.jpg)
+         no-repeat center center fixed;
+         background -size: cover;
+         font -family:   sans -serif;
+}
+
+header{
+        width:80%;
+        margin:auto;
+        overflow: hidden;
+}
+
+.links
+{
+border-radius:10px;
+}
+.links:hover
+{
+background-color:green;
+}
+
+.head{
+         float :left;
+         color:#fff;
+         font-family:  cursive;
+}
+
+
+
+.container{
+      width:    70%;
+      margin: auto;
+      overflow: hidden:
+      margin-top:  1%;
+ }
+
+showcase  h1{
+       color:#fff;
+       font-family:  cursive;
+       text-align:      center;
+}
+
+showcase  h3{
+        color:  #fff;
+        text-align:  center;
+        letter-spacing:  2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
