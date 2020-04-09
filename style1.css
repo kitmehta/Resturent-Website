@@ -1,0 +1,80 @@
+body{
+         background :url(file:///C:/Users/91827/Pictures/plate-of-prepared-food-1439328.jpg)
+         no-repeat center center fixed;
+         background -size: cover;
+         font -family:   sans -serif;
+}
+  
+header{
+        width:80%;
+        margin:auto;
+        overflow: hidden;
+}
+
+.head{
+         float :left;
+         color:#fff;
+         font-family:  cursive;
+}
+
+nav{
+       float:  right;
+ }
+
+li{
+    display :  inline;
+    padding :lrem;
+}
+
+li a{
+     color:  #fff;
+     text-decoration : none;
+     font-weight:  bold;
+}
+.active{
+        color: gold;
+ }
+
+
+
+.container{
+      width:    70%;
+      margin: auto;
+      overflow: hidden:
+      margin-top:  1%;
+ }
+
+showcase  h1{
+       color:#fff;
+       font-family:  cursive;
+       text-align:      center;
+}
+
+showcase  h3{
+        color:  #fff;
+        text-align:  center;
+        letter-spacing:  2px;
+}
+
+.category{
+       color:#fff;
+       margin-top:  5%;
+       display:  flex;
+       text-align:  center;
+       font-family:  cursive;
+}
+
+img{
+         width:  100%;
+        border- radius :50%;
+  }
+    
+   .snacks,  .grill{
+          padding -left:   lrem;
+   }
+
+
+
+
+
+
